@@ -1,0 +1,9 @@
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\converters\ObjectToCurrent.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\config\ModelMapperConfig.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\feignClient\GetWeatherInfoFromOpenMap.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\models\Condition.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\WeatherForecastAppApplication.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\controller\Controller.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\models\Location.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\converters\ObjectToLocation.java
+G:\IdeaProjects\weather-forecast-app\src\main\java\ru\smirnov\WeatherForecastApp\models\Current.java
